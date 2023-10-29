@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Tip Time</string>
+
+    <!-- Labels for UI Elements -->
+    <string name="label_cost_of_service">Cost of Service</string>
+    <string name="label_how_was_the_service">How was the service?</string>
+    <string name="label_amazing_service">Amazing (20%)</string>
+    <string name="label_good_service">Good (18%)</string>
+    <string name="label_ok_service">Okay (15%)</string>
+    <string name="label_round_up_tip">Round up tip?</string>
+    <string name="label_calculate">Calculate</string>
+    <string name="label_tip_amount">Tip Amount</string>
+    <string name="first_fragment_label">Your First Fragment Label</string>
+    <string name="second_fragment_label">Your Second Fragment Label</string>
+
+</resources>
